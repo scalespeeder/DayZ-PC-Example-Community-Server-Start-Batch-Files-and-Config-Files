@@ -8,9 +8,9 @@ OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHE
 AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
 THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-This is a simple collection of serferDZ.cfg & .bat start files that I use to start and configure my local DayZ PC Server, and may be of use for your servers.
+This is a simple collection of serferDZ.cfg & .bat start files that I use to start and configure my local DayZ PC Server, and may be of use as examples for your servers.
 
-Please note that you'll have to change file addresses to suit your instalation.
+Please note that you'll have to change file addresses to suit your instalation, and have the relevant mods & missions installed.
 
 Thanks, Rob.
 
